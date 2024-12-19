@@ -6,7 +6,7 @@ Seismic Insight is an earthquake prediction project that utilizes historical sei
 ---
 
 ## Dataset
-- **Source**: Kaggle (link if available)
+- **Source**: Kaggle 
 - **Columns**: Includes parameters such as:
   - `time`: Timestamp of the event.
   - `latitude` and `longitude`: Location of the event.
