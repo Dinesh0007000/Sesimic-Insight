@@ -79,7 +79,7 @@ Key visualizations include:
 ---
 
 ## License
-[MIT License](LICENSE)
+None
 
 ---
 
